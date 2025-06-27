@@ -1,0 +1,610 @@
+{
+    "success": true,
+    "response": [
+        {
+            "skuPadre": "DAM 039",
+            "nombrePadre": "COSMETIQUERA KAUNIS",
+            "categorias": "BELLEZA",
+            "subCategorias": "COSMETIQUERAS",
+            "descripcion": "Cosmetiquera con cierre y forro interno. Hecho con materiales suaves y resistentes. Guarda tus accesorios de viaje y maquillaje de forma segura.",
+            "material": "Curpiel / Poliester",
+            "capacidad": "",
+            "medidas": "21.5 x 13 x 6.5 cm",
+            "paquete": {
+                "alto": "0.32",
+                "largo": "0.535",
+                "ancho": "0.355",
+                "pesoBruto": "5.6",
+                "pesoNeto": "4.9",
+                "PiezasCaja": "100",
+                "PiezasInner": "0",
+                "cajaIndividual": "NO",
+                "innersCaja": "0",
+                "unidadPeso": "KG",
+                "unidadVolumen": "CM3"
+            },
+            "impresion": {
+                "tecnicaImpresion": "Serigrafia",
+                "areaImpresion": "10 x 5 cm"
+            },
+            "imagenesPadre": [
+                "https://www.contenidopromo.com/Images/padre/DAM-039.jpg"
+            ],
+            "imagenesVector": [
+                "https://www.contenidopromo.com/Images/vectores/DAM-039.jpg"
+            ],
+            "Actualizado": "2025-06-19 1:30:03",
+            "hijos": [
+                {
+                    "skuHijo": "DAM 039 A",
+                    "nombreHijo": "COSMETIQUERA KAUNIS AZUL",
+                    "color": "AZUL",
+                    "precio": "30.21",
+                    "tipo": "Normal",
+                    "moneda": "MXN",
+                    "talla": null,
+                    "imagenesHijo": [
+                        "https://www.contenidopromo.com/Images/Items/DAM-039-A.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-039-A_1.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-039-A_2.jpg"
+                    ],
+                    "estatus": "1"
+                },
+                {
+                    "skuHijo": "DAM 039 BE",
+                    "nombreHijo": "COSMETIQUERA KAUNIS BEIGE",
+                    "color": "BEIGE",
+                    "precio": "30.21",
+                    "tipo": "Normal",
+                    "moneda": "MXN",
+                    "talla": null,
+                    "imagenesHijo": [
+                        "https://www.contenidopromo.com/Images/Items/DAM-039-BE.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-039-BE_1.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-039-BE_2.jpg"
+                    ],
+                    "estatus": "1"
+                },
+                {
+                    "skuHijo": "DAM 039 C",
+                    "nombreHijo": "COSMETIQUERA KAUNIS CAFÉ",
+                    "color": "CAFE",
+                    "precio": "30.21",
+                    "tipo": "Normal",
+                    "moneda": "MXN",
+                    "talla": null,
+                    "imagenesHijo": [
+                        "https://www.contenidopromo.com/Images/Items/DAM-039-C.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-039-C_1.jpg"
+                    ],
+                    "estatus": "1"
+                },
+                {
+                    "skuHijo": "DAM 039 P",
+                    "nombreHijo": "COSMETIQUERA KAUNIS ROSA",
+                    "color": "ROSA",
+                    "precio": "30.21",
+                    "tipo": "Normal",
+                    "moneda": "MXN",
+                    "talla": null,
+                    "imagenesHijo": [
+                        "https://www.contenidopromo.com/Images/Items/DAM-039-P.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-039-P_1.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-039-P_2.jpg"
+                    ],
+                    "estatus": "1"
+                }
+            ]
+        },
+        {
+            "skuPadre": "DAM 040",
+            "nombrePadre": "SET DE ALMOHADILLAS LUCIA",
+            "categorias": "BELLEZA",
+            "subCategorias": "BROCHAS Y MAQUILLAJE",
+            "descripcion": "Set de 5 almohadillas desmaquillantes y reutilizables. Gracias a su material de fibra de bambu, son suaves para utilizar en tu piel. Incluye bolsa de algodon con cierre de jareta.",
+            "material": "Fibra de Bambu / Algodon",
+            "capacidad": "",
+            "medidas": "11 x 14 cm Bolsa / 8 cm Diámetro Almohadilla",
+            "paquete": {
+                "alto": "0.31",
+                "largo": "0.495",
+                "ancho": "0.365",
+                "pesoBruto": "6.7",
+                "pesoNeto": "5.4",
+                "PiezasCaja": "200",
+                "PiezasInner": "50",
+                "cajaIndividual": "NO",
+                "innersCaja": "4",
+                "unidadPeso": "KG",
+                "unidadVolumen": "CM3"
+            },
+            "impresion": {
+                "tecnicaImpresion": "Serigrafia",
+                "areaImpresion": "6 x 3 cm"
+            },
+            "imagenesPadre": [
+                "https://www.contenidopromo.com/Images/padre/DAM-040.jpg"
+            ],
+            "imagenesVector": [
+                "https://www.contenidopromo.com/Images/vectores/DAM-040.jpg"
+            ],
+            "Actualizado": "2025-06-19 1:30:03",
+            "hijos": [
+                {
+                    "skuHijo": "DAM 040 BE",
+                    "nombreHijo": "SET DE ALMOHADILLAS LUCÍA",
+                    "color": "BEIGE",
+                    "precio": "61.63",
+                    "tipo": "Normal",
+                    "moneda": "MXN",
+                    "talla": null,
+                    "imagenesHijo": [
+                        "https://www.contenidopromo.com/Images/Items/DAM-040-BE.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-040-BE_1.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-040-BE_2.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-040-BE_3.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-040-BE_4.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-040-BE_7.jpg"
+                    ],
+                    "estatus": "1"
+                }
+            ]
+        },
+        {
+            "skuPadre": "DAM 041",
+            "nombrePadre": "SET DE APLICADORES SUAY",
+            "categorias": "BELLEZA",
+            "subCategorias": "BROCHAS Y MAQUILLAJE",
+            "descripcion": "Set de 2 esponjas aplicadoras de maquillaje. Incluye un liston posterior que permite un comodo agarre para la aplicacion. Es suave y absorbente al agua gracias al material hidrofilico, lo que permite crecer su tamano cuando esta mojada. Puedes utilizarla: en seco, para fijar maquillaje por mas tiempo, o humedo para un terminado mas delicado. Incluye estuche de plastico.",
+            "material": "Poliester",
+            "capacidad": "",
+            "medidas": "6.5 x 6.5 x 2 cm Estuche / 5.5 x 5.5 cm Aplicador",
+            "paquete": {
+                "alto": "0.48",
+                "largo": "0.565",
+                "ancho": "0.355",
+                "pesoBruto": "11.6",
+                "pesoNeto": "9.5",
+                "PiezasCaja": "500",
+                "PiezasInner": "50",
+                "cajaIndividual": "NO",
+                "innersCaja": "10",
+                "unidadPeso": "KG",
+                "unidadVolumen": "CM3"
+            },
+            "impresion": {
+                "tecnicaImpresion": "Serigrafia",
+                "areaImpresion": "4 x 4 cm"
+            },
+            "imagenesPadre": [
+                "https://www.contenidopromo.com/Images/padre/DAM-041.jpg"
+            ],
+            "imagenesVector": [
+                "https://www.contenidopromo.com/Images/vectores/DAM-041.jpg"
+            ],
+            "Actualizado": "2025-06-19 1:30:03",
+            "hijos": [
+                {
+                    "skuHijo": "DAM 041 MC",
+                    "nombreHijo": "SET DE APLICADORES SUAY",
+                    "color": "MULTICOLOR",
+                    "precio": "15.95",
+                    "tipo": "Normal",
+                    "moneda": "MXN",
+                    "talla": null,
+                    "imagenesHijo": [
+                        "https://www.contenidopromo.com/Images/Items/DAM-041-MC.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-041-MC_1.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-041-MC_2.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-041-MC_3.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-041-MC_4.jpg"
+                    ],
+                    "estatus": "1"
+                }
+            ]
+        },
+        {
+            "skuPadre": "DAM 042",
+            "nombrePadre": "SET DE MANICURE EMMA",
+            "categorias": "BELLEZA",
+            "subCategorias": "MANICURE",
+            "descripcion": "Set de manicure. Cuenta con sobre de curpiel con boton metalico. Incluye 6 piezas para un manicure basico: cortaunas, tijeras curva para unas, lima de unas, empujador de cuticula, limpia unas y pinza para cejas.",
+            "material": "Curpiel / Metal",
+            "capacidad": "",
+            "medidas": "7.2 x 10.5 cm",
+            "paquete": {
+                "alto": "0.205",
+                "largo": "0.39",
+                "ancho": "0.255",
+                "pesoBruto": "7.0",
+                "pesoNeto": "6.36",
+                "PiezasCaja": "120",
+                "PiezasInner": "30",
+                "cajaIndividual": "NO",
+                "innersCaja": "4",
+                "unidadPeso": "KG",
+                "unidadVolumen": "CM3"
+            },
+            "impresion": {
+                "tecnicaImpresion": "Serigrafia",
+                "areaImpresion": "4 x 4 cm"
+            },
+            "imagenesPadre": [
+                "https://www.contenidopromo.com/Images/padre/DAM-042.jpg"
+            ],
+            "imagenesVector": [
+                "https://www.contenidopromo.com/Images/vectores/DAM-042.jpg"
+            ],
+            "Actualizado": "2025-06-19 1:30:04",
+            "hijos": [
+                {
+                    "skuHijo": "DAM 042 A",
+                    "nombreHijo": "SET DE MANICURE EMMA AZUL",
+                    "color": "AZUL",
+                    "precio": "46.67",
+                    "tipo": "Normal",
+                    "moneda": "MXN",
+                    "talla": null,
+                    "imagenesHijo": [
+                        "https://www.contenidopromo.com/Images/Items/DAM-042-A.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-042-A_1.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-042-A_2.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-042-A_3.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-042-A_4.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-042-A_5.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-042-A_6.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-042-A_7.jpg"
+                    ],
+                    "estatus": "1"
+                },
+                {
+                    "skuHijo": "DAM 042 P",
+                    "nombreHijo": "SET DE MANICURE EMMA ROSA",
+                    "color": "ROSA",
+                    "precio": "46.67",
+                    "tipo": "Normal",
+                    "moneda": "MXN",
+                    "talla": null,
+                    "imagenesHijo": [
+                        "https://www.contenidopromo.com/Images/Items/DAM-042-P.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-042-P_1.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-042-P_2.jpg"
+                    ],
+                    "estatus": "1"
+                },
+                {
+                    "skuHijo": "DAM 042 V",
+                    "nombreHijo": "SET DE MANICURE EMMA VERDE",
+                    "color": "VERDE",
+                    "precio": "46.67",
+                    "tipo": "Normal",
+                    "moneda": "MXN",
+                    "talla": null,
+                    "imagenesHijo": [
+                        "https://www.contenidopromo.com/Images/Items/DAM-042-V.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-042-V_1.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-042-V_2.jpg"
+                    ],
+                    "estatus": "1"
+                }
+            ]
+        },
+        {
+            "skuPadre": "DAM 043",
+            "nombrePadre": "SET DE MANICURE SAVANNA",
+            "categorias": "BELLEZA",
+            "subCategorias": "MANICURE",
+            "descripcion": "Set de manicura. Incluye 1 corta unas, 1 lima de unas, 1 removedor de cuticula y estuche de curpiel con boton metalico. Su tamano lo hace conveniente, portatil y ligero para llevarlo a sus viajes.",
+            "material": "Curpiel / Metal",
+            "capacidad": "",
+            "medidas": "6 x 10 cm",
+            "paquete": {
+                "alto": "0.345",
+                "largo": "0.34",
+                "ancho": "0.245",
+                "pesoBruto": "7.1",
+                "pesoNeto": "6.36",
+                "PiezasCaja": "120",
+                "PiezasInner": "30",
+                "cajaIndividual": "NO",
+                "innersCaja": "4",
+                "unidadPeso": "KG",
+                "unidadVolumen": "CM3"
+            },
+            "impresion": {
+                "tecnicaImpresion": "Serigrafia",
+                "areaImpresion": "3 x 3 cm"
+            },
+            "imagenesPadre": [
+                "https://www.contenidopromo.com/Images/padre/DAM-043.jpg"
+            ],
+            "imagenesVector": [
+                "https://www.contenidopromo.com/Images/vectores/DAM-043.jpg"
+            ],
+            "Actualizado": "2025-06-19 1:30:03",
+            "hijos": [
+                {
+                    "skuHijo": "DAM 043 A",
+                    "nombreHijo": "SET DE MANICURE SAVANNA AZUL",
+                    "color": "AZUL",
+                    "precio": "33.33",
+                    "tipo": "Normal",
+                    "moneda": "MXN",
+                    "talla": null,
+                    "imagenesHijo": [
+                        "https://www.contenidopromo.com/Images/Items/DAM-043-A.jpg"
+                    ],
+                    "estatus": "1"
+                },
+                {
+                    "skuHijo": "DAM 043 BE",
+                    "nombreHijo": "SET DE MANICURE SAVANNA BEIGE",
+                    "color": "BEIGE",
+                    "precio": "33.33",
+                    "tipo": "Normal",
+                    "moneda": "MXN",
+                    "talla": null,
+                    "imagenesHijo": [
+                        "https://www.contenidopromo.com/Images/Items/DAM-043-BE.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-043-BE_1.jpg"
+                    ],
+                    "estatus": "1"
+                },
+                {
+                    "skuHijo": "DAM 043 P",
+                    "nombreHijo": "SET DE MANICURE SAVANNA ROSA",
+                    "color": "ROSA",
+                    "precio": "33.33",
+                    "tipo": "Normal",
+                    "moneda": "MXN",
+                    "talla": null,
+                    "imagenesHijo": [
+                        "https://www.contenidopromo.com/Images/Items/DAM-043-P.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-043-P_1.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-043-P_3.jpg"
+                    ],
+                    "estatus": "1"
+                }
+            ]
+        },
+        {
+            "skuPadre": "DAM 045",
+            "nombrePadre": "COSMETIQUERA KEWA",
+            "categorias": "BELLEZA",
+            "subCategorias": "COSMETIQUERAS",
+            "descripcion": "Cosmetiquera ideal para llevar todos tus productos de belleza de manera organizada. Bolsa principal con cierre, con un amplio espacio interior. Ofrece suficiente capacidad para guardar cosmeticos, brochas y accesorios indispensables. Su asa de curpiel proporciona un agarre comodo, lo que facilita su transporte. Base fabricada con yute de alta calidad, lo que garantiza su durabilidad y resistencia al desgaste. Ademas, su mica transparente en la parte frontal permite ver facilmente el interior, ahorrando tiempo al buscar tus productos.",
+            "material": "Yute / Mica PVC / Poliester / Curpiel",
+            "capacidad": "",
+            "medidas": "24 x 19 x 15 cm",
+            "paquete": {
+                "alto": "0.41",
+                "largo": "0.43",
+                "ancho": "0.39",
+                "pesoBruto": "10.5",
+                "pesoNeto": "9.48",
+                "PiezasCaja": "60",
+                "PiezasInner": "1",
+                "cajaIndividual": "NO",
+                "innersCaja": "60",
+                "unidadPeso": "KG",
+                "unidadVolumen": "CM3"
+            },
+            "impresion": {
+                "tecnicaImpresion": "Serigrafia",
+                "areaImpresion": "10 x 5 cm"
+            },
+            "imagenesPadre": [
+                "https://www.contenidopromo.com/Images/padre/DAM-045.jpg"
+            ],
+            "imagenesVector": [
+                "https://www.contenidopromo.com/Images/vectores/DAM-045.jpg"
+            ],
+            "Actualizado": "2025-06-19 1:30:02",
+            "hijos": [
+                {
+                    "skuHijo": "DAM 045 BE",
+                    "nombreHijo": "COSMETIQUERA KEWA",
+                    "color": "BEIGE",
+                    "precio": "91.0",
+                    "tipo": "Normal",
+                    "moneda": "MXN",
+                    "talla": null,
+                    "imagenesHijo": [
+                        "https://www.contenidopromo.com/Images/Items/DAM-045-BE.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-045-BE_1.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-045-BE_2.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-045-BE_3.jpg"
+                    ],
+                    "estatus": "1"
+                }
+            ]
+        },
+        {
+            "skuPadre": "DAM 050",
+            "nombrePadre": "COSMETIQUERA DORAT",
+            "categorias": "BELLEZA",
+            "subCategorias": "COSMETIQUERAS",
+            "descripcion": "Cosmetiquera metalizada con fuelle. Compartimento principal con cierre.",
+            "material": "Curpiel",
+            "capacidad": "",
+            "medidas": "21.5 x 13.5 x 5.5 cm",
+            "paquete": {
+                "alto": "0.4",
+                "largo": "0.58",
+                "ancho": "0.38",
+                "pesoBruto": "12.0",
+                "pesoNeto": "11.0",
+                "PiezasCaja": "200",
+                "PiezasInner": "0",
+                "cajaIndividual": "NO",
+                "innersCaja": "0",
+                "unidadPeso": "KG",
+                "unidadVolumen": "CM3"
+            },
+            "impresion": {
+                "tecnicaImpresion": "Serigrafia",
+                "areaImpresion": "10 x 6 cm"
+            },
+            "imagenesPadre": [
+                "https://www.contenidopromo.com/Images/padre/DAM-050.jpg"
+            ],
+            "imagenesVector": [
+                "https://www.contenidopromo.com/Images/vectores/DAM-050.jpg"
+            ],
+            "Actualizado": "2025-06-19 1:30:03",
+            "hijos": [
+                {
+                    "skuHijo": "DAM 050 D",
+                    "nombreHijo": "COSMETIQUERA DORAT DORADO",
+                    "color": "ORO",
+                    "precio": "55.68",
+                    "tipo": "Outlet",
+                    "moneda": "MXN",
+                    "talla": null,
+                    "imagenesHijo": [
+                        "https://www.contenidopromo.com/Images/Items/DAM-050-D.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-050-D_1.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-050-D_2.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-050-D_3.jpg"
+                    ],
+                    "estatus": "0"
+                },
+                {
+                    "skuHijo": "DAM 050 P",
+                    "nombreHijo": "COSMETIQUERA DORAT ROSA",
+                    "color": "ROSA",
+                    "precio": "55.68",
+                    "tipo": "Outlet",
+                    "moneda": "MXN",
+                    "talla": null,
+                    "imagenesHijo": [
+                        "https://www.contenidopromo.com/Images/Items/DAM-050-P.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-050-P_1.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-050-P_2.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-050-P_3.jpg"
+                    ],
+                    "estatus": "0"
+                }
+            ]
+        },
+        {
+            "skuPadre": "DAM 051",
+            "nombrePadre": "COSMETIQUERA BELLAC",
+            "categorias": "BELLEZA",
+            "subCategorias": "COSMETIQUERAS",
+            "descripcion": "Cosmetiquera texturizada con fuelle. Bolsa principal con cierre.",
+            "material": "Curpiel",
+            "capacidad": "",
+            "medidas": "20 x 14 x 9 cm",
+            "paquete": {
+                "alto": "0.4",
+                "largo": "0.58",
+                "ancho": "0.38",
+                "pesoBruto": "6.4",
+                "pesoNeto": "5.2",
+                "PiezasCaja": "100",
+                "PiezasInner": "0",
+                "cajaIndividual": "NO",
+                "innersCaja": "0",
+                "unidadPeso": "KG",
+                "unidadVolumen": "CM3"
+            },
+            "impresion": {
+                "tecnicaImpresion": "Serigrafia",
+                "areaImpresion": "10 x 8 cm"
+            },
+            "imagenesPadre": [
+                "https://www.contenidopromo.com/Images/padre/DAM-051.jpg"
+            ],
+            "imagenesVector": [
+                "https://www.contenidopromo.com/Images/vectores/DAM-051.jpg"
+            ],
+            "Actualizado": "2025-06-19 1:30:03",
+            "hijos": [
+                {
+                    "skuHijo": "DAM 051 BE",
+                    "nombreHijo": "COSMETIQUERA BELLAC BEIGE",
+                    "color": "BEIGE",
+                    "precio": "76.29",
+                    "tipo": "Unico",
+                    "moneda": "MXN",
+                    "talla": null,
+                    "imagenesHijo": [
+                        "https://www.contenidopromo.com/Images/Items/DAM-051-BE.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-051-BE_1.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-051-BE_2.jpg"
+                    ],
+                    "estatus": "1"
+                },
+                {
+                    "skuHijo": "DAM 051 P",
+                    "nombreHijo": "COSMETIQUERA BELLAC ROSA",
+                    "color": "ROSA",
+                    "precio": "76.29",
+                    "tipo": "Unico",
+                    "moneda": "MXN",
+                    "talla": null,
+                    "imagenesHijo": [
+                        "https://www.contenidopromo.com/Images/Items/DAM-051-P.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-051-P_1.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-051-P_2.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-051-P_3.jpg"
+                    ],
+                    "estatus": "1"
+                }
+            ]
+        },
+        {
+            "skuPadre": "DAM 052",
+            "nombrePadre": "SET MASAJEADOR HELENA",
+            "categorias": "BELLEZA",
+            "subCategorias": "SETS DE BELLEZA",
+            "descripcion": "Set masajeador facial. Incluye 1 rodillo para estimular y masajear la piel, para mejorar la circulacion sanguinea y reducir la hinchazon facial. Piedra facial Gua Sha, para aplicar presion y realizar movimientos de deslizamiento sobre la piel. Ayuda a aliviar la tension muscular y a mejorar la absorcion de productos para el cuidado de la piel. Caja individual con cierre imantado.",
+            "material": "Piedra Jade / Metal",
+            "capacidad": "",
+            "medidas": "17 x 11.5 x 3 cm Caja / 6 x 14 cm Rodillo / 6 x 8 cm Piedra",
+            "paquete": {
+                "alto": "0.105",
+                "largo": "0.515",
+                "ancho": "0.365",
+                "pesoBruto": "9.8",
+                "pesoNeto": "9.0",
+                "PiezasCaja": "40",
+                "PiezasInner": "0",
+                "cajaIndividual": "SI",
+                "innersCaja": "0",
+                "unidadPeso": "KG",
+                "unidadVolumen": "CM3"
+            },
+            "impresion": {
+                "tecnicaImpresion": "Serigrafia",
+                "areaImpresion": "12 x 8 cm Caja"
+            },
+            "imagenesPadre": [
+                "https://www.contenidopromo.com/Images/padre/DAM-052.jpg"
+            ],
+            "imagenesVector": [
+                "https://www.contenidopromo.com/Images/vectores/DAM-052.jpg"
+            ],
+            "Actualizado": "2025-06-19 1:30:03",
+            "hijos": [
+                {
+                    "skuHijo": "DAM 052 B",
+                    "nombreHijo": "SET MASAJEADOR HELENA",
+                    "color": "BLANCO",
+                    "precio": "139.78",
+                    "tipo": "Normal",
+                    "moneda": "MXN",
+                    "talla": null,
+                    "imagenesHijo": [
+                        "https://www.contenidopromo.com/Images/Items/DAM-052-B.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-052-B_1.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-052-B_2.jpg",
+                        "https://www.contenidopromo.com/Images/Items/DAM-052-B_3.jpg"
+                    ],
+                    "estatus": "1"
+                }
+            ]
+        }
+    ]
+}
